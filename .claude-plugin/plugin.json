@@ -1,0 +1,17 @@
+{
+  "name": "crash-me-claude",
+  "version": "1.0.0",
+  "description": "Collects Claude Code and IDE-extension crash and error reports on your computer, redacted, ready to save or send.",
+  "author": {
+    "name": "buggypather"
+  },
+  "homepage": "https://github.com/buggypather/crash-me-claude",
+  "repository": "https://github.com/buggypather/crash-me-claude",
+  "license": "MIT",
+  "keywords": [
+    "crash",
+    "report",
+    "bug",
+    "diagnostics"
+  ]
+}

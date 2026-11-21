@@ -1,0 +1,13 @@
+{
+  "name": "crash-me-claude",
+  "owner": {
+    "name": "buggypather"
+  },
+  "plugins": [
+    {
+      "name": "crash-me-claude",
+      "source": "./",
+      "description": "Collects Claude Code and IDE-extension crash and error reports on your computer, redacted, ready to save or send."
+    }
+  ]
+}
